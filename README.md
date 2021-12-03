@@ -1,4 +1,4 @@
 # Mid-Term Project
 
 ## Flights Delay Prediction
-By Kyle, Yusir and Arash
+By Kyle, Yusri and Arash

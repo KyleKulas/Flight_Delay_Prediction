@@ -2,7 +2,6 @@
 .idea/
 .DS_Store
 __pycache__/
-/data
-.ipynb_checkpoints/
+data/
 config.py
 *.png
